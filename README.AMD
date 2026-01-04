@@ -1,0 +1,50 @@
+# 💬 CODTECH Internship – Task 2  
+## Real-Time Chat Application
+
+This project is developed as part of the **CODTECH Internship Program – Task 2**.  
+The objective of this task is to build a **real-time chat application** using **WebSocket / Socket.IO** with proper **frontend and backend integration**.
+
+---
+
+## 📌 Project Overview
+
+The Real-Time Chat Application allows multiple users to:
+- Join a chat room
+- Send and receive messages instantly
+- Experience real-time communication using WebSockets
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- Socket.IO
+
+---
+
+## ✨ Features
+
+- 🔴 Real-time messaging
+- 👥 Multiple users support
+- 🔄 Instant message updates without page refresh
+- 📡 WebSocket-based communication
+- 🔗 Frontend & Backend integration
+
+---
+
+## 📂 Project Structure📸 Output
+Users can send messages
+Messages appear instantly for all connected users
+Real-time communication achieved using Socket.IO
+🎯 Internship Task Requirement Fulfilled
+✅ Developed a real-time chat application
+✅ Used WebSocket / Socket.IO
+✅ Implemented frontend & backend integration
+✅ Live chat functionality working successfully
